@@ -15,7 +15,7 @@ Changer sa valeur par 125. Afficher son contenu.
 Créer une variable de type string, une variable de type int, une variable de type float, une variable de type booléan et les initialiser avec une valeur de votre choix.  
 Les afficher.
 
-##Exerice 5
+##Exercice 5
 Créer une variable de type int. L'initialiser avec **rien**. Afficher sa valeur.  
 Donner une valeur à cette variable et l'afficher.
 
